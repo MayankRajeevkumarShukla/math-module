@@ -1,6 +1,6 @@
 {
   "name": "mayank-jovian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "it's module containig basic maths",
   "main": "index.js",
   "directories": {
