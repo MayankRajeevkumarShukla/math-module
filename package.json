@@ -1,0 +1,27 @@
+{
+  "name": "mayank-jovian",
+  "version": "1.0.0",
+  "description": "it's module containig basic maths",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayankRajeevkumarShukla/math-module.git"
+  },
+  "keywords": [
+    "math",
+    "sum",
+    "subtract"
+  ],
+  "author": "mayank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MayankRajeevkumarShukla/math-module/issues"
+  },
+  "homepage": "https://github.com/MayankRajeevkumarShukla/math-module#readme"
+}
